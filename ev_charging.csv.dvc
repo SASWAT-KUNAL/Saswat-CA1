@@ -1,0 +1,5 @@
+outs:
+- md5: ab49e0773b3d30c74b9986f4227d47ed
+  size: 6622
+  hash: md5
+  path: ev_charging.csv
